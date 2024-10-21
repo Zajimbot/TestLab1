@@ -1,0 +1,17 @@
+G:\Test\WPFTestTreug\WPFTestTreug\bin\Debug\WPFTestTreug.exe.config
+G:\Test\WPFTestTreug\WPFTestTreug\bin\Debug\WPFTestTreug.exe
+G:\Test\WPFTestTreug\WPFTestTreug\bin\Debug\WPFTestTreug.pdb
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.csproj.AssemblyReference.cache
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\DictionaryPurpl.baml
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\MainWindow.g.cs
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\App.g.cs
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug_MarkupCompile.cache
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug_MarkupCompile.lref
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\App.baml
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\MainWindow.baml
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.g.resources
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.Properties.Resources.resources
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.csproj.GenerateResource.cache
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.csproj.CoreCompileInputs.cache
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.exe
+G:\Test\WPFTestTreug\WPFTestTreug\obj\Debug\WPFTestTreug.pdb
