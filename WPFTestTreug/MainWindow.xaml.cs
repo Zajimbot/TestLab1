@@ -56,7 +56,7 @@ namespace WPFTestTreug
             B.Text = Convert.ToString(b);
             C.Text = Convert.ToString(c);
 
-            if (a + b < c || a + c < b || b + c < a || a < 0 || b < 0 || c < 0)
+            if (a + b <= c || a + c <= b || b + c <= a || a < 0 || b < 0 || c < 0)
             {
                 Result.Text = "Треугольник не существует ";
                 TR.Source = null;
