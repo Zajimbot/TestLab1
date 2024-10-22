@@ -38,6 +38,13 @@ namespace WPFTestTreug
                     TR.Source = null;
                     return;
                 }
+                if(a > 1000000000 || b > 1000000000 || c > 1000000000)
+                {
+
+                    Result.Text = "Числа не должны быть болше 1000000000";
+                    TR.Source = null;
+                    return;
+                }
             }
             catch (Exception ex)
             {
