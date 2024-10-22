@@ -32,7 +32,7 @@ namespace WPFTestTreug
                 a = Convert.ToInt32(A.Text);
                 b = Convert.ToInt32(B.Text);
                 c = Convert.ToInt32(C.Text);
-                if (a < 0 || b < 0 || c < 0)
+                if (a <= 0 || b <= 0 || c <= 0)
                 {
                     Result.Text = "Числа должны быть положительными";
                     TR.Source = null;
